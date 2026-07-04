@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Dark background -->
+  <rect width="64" height="64" rx="12" fill="#050d14"/>
+  <!-- Subtle circuit corner dots -->
+  <circle cx="8"  cy="8"  r="2" fill="#00d4ff" opacity="0.4"/>
+  <circle cx="56" cy="8"  r="2" fill="#00d4ff" opacity="0.4"/>
+  <circle cx="8"  cy="56" r="2" fill="#00d4ff" opacity="0.4"/>
+  <circle cx="56" cy="56" r="2" fill="#00d4ff" opacity="0.4"/>
+  <!-- Circuit trace lines -->
+  <line x1="8"  y1="8"  x2="18" y2="8"  stroke="#00d4ff" stroke-width="1" opacity="0.25"/>
+  <line x1="56" y1="8"  x2="46" y2="8"  stroke="#00d4ff" stroke-width="1" opacity="0.25"/>
+  <line x1="8"  y1="56" x2="18" y2="56" stroke="#00d4ff" stroke-width="1" opacity="0.25"/>
+  <line x1="56" y1="56" x2="46" y2="56" stroke="#00d4ff" stroke-width="1" opacity="0.25"/>
+  <!-- < bracket — cyan -->
+  <text x="4" y="42" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#00d4ff">&lt;</text>
+  <!-- DW — white -->
+  <text x="18" y="42" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#e2e8f0">DW</text>
+  <!-- /> bracket — cyan -->
+  <text x="44" y="42" font-family="JetBrains Mono, monospace" font-size="22" font-weight="700" fill="#00d4ff">/&gt;</text>
+</svg>
