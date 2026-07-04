@@ -24,8 +24,8 @@ window.projectsData = [
     image: "images/projects/tamingsarilogistic.png",
     featured: true,
     links: {
-      github: "https://github.com/dannywyne",
-      demo: "https://github.com/wmDanialh/tamingsarilogistics.github.io",
+      github: "https://github.com/wmDanialh/tamingsarilogistics.github.io",
+      demo: "https://wmdanialh.github.io/tamingsarilogistics.github.io/",
     },
   },
   {
